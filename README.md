@@ -4,13 +4,13 @@ My name is Natalia. I am passionate about new technologies and I am open to work
 My interests:
 - Machne Leanrning
 - Neural Networks
-- Computer Vision
+- 🖥Computer Vision
 
 ## My skills
  - Python
  - PyTorch
 
-## My recent projects
+## My projects
 
 ## Contact
 I am open to take part in diverse project. If you are interessted in collaboration, please contact me via:
