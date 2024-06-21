@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hello! 👋
+
+
+# My interests
+- Machne Leanrning
+- Neural Networks
+- Computer Vision
 
 <!--
 **NataliaNadolna/NataliaNadolna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
