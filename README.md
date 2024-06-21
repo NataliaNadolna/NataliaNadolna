@@ -6,6 +6,7 @@ My interests:
 - 🖥 Machne Leanrning
 - 🌐 Neural Networks
 - 👀 Computer Vision
+- 🐍 Python
 
 ## My skills
  - Python
