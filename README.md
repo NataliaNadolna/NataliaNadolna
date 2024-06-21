@@ -8,7 +8,7 @@ My interests:
 - 👀 Computer Vision
 - 🐍 Python
 
-## My skills
+## My skills 💪
  - Python
  - PyTorch
 
