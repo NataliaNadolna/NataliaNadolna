@@ -1,5 +1,5 @@
 ## Hello! 👋
-My name is Natalia. I am passionate about new technologies and I am open to opportunities to work. 
+My name is Natalia. I am passionate about new technologies and I am open to work opportunities. 
 
 My interests:
 - Machne Leanrning
