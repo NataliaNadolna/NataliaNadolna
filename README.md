@@ -10,6 +10,10 @@
  - Python
  - PyTorch
 
+## My education
+- MSc in Computer Science
+- BSc in Electronics
+
 <!--
 **NataliaNadolna/NataliaNadolna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
