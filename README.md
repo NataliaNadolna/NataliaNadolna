@@ -1,10 +1,14 @@
 ## Hello! 👋
 
 
-# My interests
+## My interests
 - Machne Leanrning
 - Neural Networks
 - Computer Vision
+
+  ## My skills
+  - Python
+  - PyTorch
 
 <!--
 **NataliaNadolna/NataliaNadolna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
