@@ -1,7 +1,7 @@
 ## Hello! 👋
-My name is Natalia.
+My name is Natalia. I am passionate about new technologies and I am open to opportunities to work. 
 
-## My interests
+My interests:
 - Machne Leanrning
 - Neural Networks
 - Computer Vision
