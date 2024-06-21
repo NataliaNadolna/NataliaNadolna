@@ -1,5 +1,5 @@
 ## Hello! 👋
-
+My name is Natalia.
 
 ## My interests
 - Machne Leanrning
@@ -10,9 +10,11 @@
  - Python
  - PyTorch
 
-## My education
-- MSc in Computer Science
-- BSc in Electronics
+## My recent projects
+
+## Contact
+I am open to take part in diverse project. If you are interessted in collaboration, please contact me via:
+- mail: nat.nadolna@gmail.com
 
 <!--
 **NataliaNadolna/NataliaNadolna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
