@@ -9,7 +9,7 @@ My interests:
 - 🐍 Python
 
 ## My skills 💪
-[![My Skills](https://skillicons.dev/icons?i=py,opencv,pytorch,tensorflow,vscode,git,github,linux,windows,matlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,opencv,pytorch,tensorflow,vscode,git,github,linux,windows,matlab,cpp,c,java)](https://skillicons.dev)
 
 ## My projects
 
