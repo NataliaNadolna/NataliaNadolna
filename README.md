@@ -12,6 +12,7 @@ My interests:
 [![My Skills](https://skillicons.dev/icons?i=py,opencv,pytorch,tensorflow,vscode,git,github,linux,windows,matlab,cpp,c,java)](https://skillicons.dev)
 
 ## My projects
+![Digits detection and classification](https://github.com/NataliaNadolna/Digits-detection-and-classification)
 
 ## Contact
 I am open to take part in diverse project. If you are interessted in collaboration, please contact me via:
