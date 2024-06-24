@@ -13,8 +13,11 @@ My interests:
 
 ## My projects
 ⛵📱 [Mobile app for sailing knots recognition](https://github.com/NataliaNadolna/Mobile-application-for-sailing-knots-recognition)
+
 🎬🔍 [Digits detection and classification](https://github.com/NataliaNadolna/Digits-detection-and-classification)
+
 🎬🔍 [Object tracking](https://github.com/NataliaNadolna/Object-Tracking)
+
 🗒🍲 [Genetic algorithm for dietary arrangement](https://github.com/NataliaNadolna/Dietary-Arrangement)
 
 ## Contact
