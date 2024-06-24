@@ -19,7 +19,7 @@ My interests:
 
 ## Contact
 I am open to take part in diverse project. If you are interessted in collaboration, please contact me via:
-- mail: nat.nadolna@gmail.com
+- nat.nadolna@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/natalia-nadolna/)
 
 <!--
