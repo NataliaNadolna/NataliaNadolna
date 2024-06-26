@@ -17,7 +17,7 @@ My interests:
 - 🎬🔍 [Object tracking](https://github.com/NataliaNadolna/Object-Tracking)
 - 🗒🍲 [Genetic algorithm for dietary arrangement](https://github.com/NataliaNadolna/Dietary-Arrangement)
 
-## My first projects
+## My previous projects
 - 🚘 [Car commission (Python)](https://github.com/NataliaNadolna/Commission)
 - 🚘 [Car commission (Java)](https://github.com/NataliaNadolna/p.obiektowe)
 - 2️⃣ [Game 2048 (LabVIEW)](https://github.com/NataliaNadolna/2048-game)
