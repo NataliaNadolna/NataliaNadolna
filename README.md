@@ -3,7 +3,7 @@ My name is Natalia. I am passionate about new technologies and I am open to work
 
 My interests:
 - 🧠 Artificial Intelligence
-- 🖥 Machne Learning
+- 🖥 Machine Learning
 - 🌐 Neural Networks
 - 👀 Computer Vision
 - 🐍 Python
