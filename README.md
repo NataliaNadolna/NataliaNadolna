@@ -9,7 +9,7 @@ My interests:
 - 🐍 Python
 
 ## My skills 💪
-[![My Skills](https://skillicons.dev/icons?i=py,opencv,pytorch,tensorflow,vscode,git,github,linux,windows,matlab,cpp,c,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,opencv,pytorch,tensorflow,git,github,linux,windows,matlab,cpp)](https://skillicons.dev)
 
 ## My recent projects
 - ⛵📱 [Mobile app for sailing knots recognition](https://github.com/NataliaNadolna/Mobile-application-for-sailing-knots-recognition)
